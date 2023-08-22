@@ -1,5 +1,5 @@
-Hi, I’m Darcy Cullen!
-I’m currently learning
+Hi, I’m Darcy!
+<br/><br/>I’m currently learning:
  - C++ (11)
  - Java (1.8)
  - Python
